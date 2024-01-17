@@ -1,4 +1,4 @@
-# Book_Your_Show_Backend
+# Bookmyshow
 
 This backend of Book Your Show where the user data is being stored and retrived flexibly from MongoDB and shown on the UI.
 
@@ -20,6 +20,5 @@ This backend of Book Your Show where the user data is being stored and retrived 
 1. Installation: `npm install`
 
 2. In the project directory, you can run: `node index.js`
-(use Nodemon insted Node if you want that changes will reload if you make edits.
-(before using nodemon please ensure that nodemon is installed in your system))
+(use Nodemon insted Node if you want that changes will reload if you make edits)
 
