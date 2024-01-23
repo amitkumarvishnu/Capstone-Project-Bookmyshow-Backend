@@ -22,3 +22,7 @@ This backend of Book Your Show where the user data is being stored and retrived 
 2. In the project directory, you can run: `node index.js`
 (use Nodemon insted Node if you want that changes will reload if you make edits)
 
+
+
+
+![IMG_2833](https://github.com/amitkumarvishnu/Capstone-Project-Bookmyshow-Backend/assets/127426769/f3567a25-e91e-44b3-b2ee-b758db0b2c1c)
